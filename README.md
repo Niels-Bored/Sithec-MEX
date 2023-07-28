@@ -47,7 +47,7 @@ Project type: **client**
 
 The company needed it for advertisement purposes, that's why every section refers to the services and methodology offered by Sithec.
 
-**The original code** is located on **the company repositories**, I can't add it here for security purposes, just screenshots.
+**The original code** is located on **the company repositories** so I can't add it here for security purposes, just screenshots.
 
 # Roadmap
 
